@@ -1,0 +1,14 @@
+a {
+    color: #ff0000;
+  }
+
+.blancorojo {
+    color: #ffffff;
+    background-color:#ff0000;
+    text-decoration: none;
+    padding: 3px;
+}
+
+.gris{  color: rgba(128, 128, 128, 0.192)
+
+}
